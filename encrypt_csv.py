@@ -7,8 +7,6 @@
 这个脚本用于加密包含私钥的CSV文件。
 主要功能是将明文的add.csv文件加密为encrypted_add.csv。
 
-作者: Cursor
-日期: 2024-03-27
 """
 
 import pandas as pd

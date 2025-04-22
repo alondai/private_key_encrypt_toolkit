@@ -92,29 +92,7 @@ project/
 ├── encrypt_csv.py            # 加密CSV文件的脚本
 ├── decrypt_utils.py          # 提供解密功能的模块
 ├── README.md                 # 本文档
-├── CHANGELOG.md             # 更新日志
-└── doc/                     # 文档目录
-    ├── prd.md              # 产品需求文档
-    ├── erd.md              # 工程结构设计
-    ├── todolist.md         # 开发任务清单
-    └── cursor-log.md       # 开发日志
-```
 
-## 📝 开发文档
-
-### 设计文档
-- [产品需求文档](doc/prd.md)
-- [工程结构设计](doc/erd.md)
-- [开发任务清单](doc/todolist.md)
-- [开发日志](doc/cursor-log.md)
-
-### 更新日志
-详见[CHANGELOG.md](CHANGELOG.md)
-
-## 🔜 未来计划
-- 支持YAML/JSON格式
-- 密码管理器集成
-- 更多加密算法支持
 
 ## 📄 许可证
 MIT License 

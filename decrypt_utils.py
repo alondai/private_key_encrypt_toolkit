@@ -7,8 +7,6 @@
 这个模块提供了解密加密CSV文件的功能。
 主要用于解密encrypted_add.csv文件,返回原始DataFrame数据。
 
-作者: Cursor
-日期: 2024-03-27
 """
 
 import pandas as pd
